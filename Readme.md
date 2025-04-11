@@ -47,3 +47,9 @@ to delete local tags  i will used to  commit  ( git tag -d v1.7 ) such as
 to delete remote tags  i will used to  commit  ( git push origin --v1.7 ) such as 
 
 ```
+``` 
+Adding Image
+
+![imagename](imageLink)
+![Zamalk my love] (./images/zamalk.png);
+```
