@@ -51,5 +51,6 @@ to delete remote tags  i will used to  commit  ( git push origin --v1.7 ) such a
 Adding Image
 
 ![imagename](imageLink)
-![Zamalk my love] (./images/zamalk.png);
+![Zamalk my love] (zamalk.png);
+
 ```
