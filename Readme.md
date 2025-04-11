@@ -29,3 +29,8 @@ Example:
 git tag v1.2
 
 ```
+```
+when to use Rebase ?
+  git rebase is essentially not good to work on public branches. However,
+  git rebase can also be done on the same branch. By periodically performing an interactive rebase on local branch, you can make sure each commit mentioned in git history is focused and meaningful. This lets you write your code without worrying about breaking it up into isolated commits — you can fix it up after the fact.
+```
