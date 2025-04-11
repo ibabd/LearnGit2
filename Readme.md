@@ -55,4 +55,4 @@ Adding Image
 
 ```
 Adding Image
-![Zamalk my love] (zamalk.png);
+![Zamalkmylove](zamalk.png)
